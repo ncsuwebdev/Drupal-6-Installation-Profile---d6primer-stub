@@ -17,5 +17,5 @@ projects[drupal][version] = 6.25
 
 projects[d6primer][type] = "profile"
 projects[d6primer][download][type] = "git"
-projects[d6primer][download][url] = "/Users/njyoung/Desktop/DropBox/DropBox/git-repos/drupal6-profile-d6primer/d6primer.git"
-projects[d6primer][download][branch] = "master"
+projects[d6primer][download][url] = "git://github.com/ncsuwebdev/Drupal-6-Installation-Profile---d6primer.git"
+projects[d6primer][download][branch] = "6.x-1.0"
