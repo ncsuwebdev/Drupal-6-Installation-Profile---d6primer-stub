@@ -9,7 +9,7 @@ core = 6.x
 ; CORE
 ; ************************
 
-projects[drupal][version] = 6.26
+projects[drupal][version] = 6.27
 
 ; ************************
 ; INSTALL PROFILE
@@ -18,4 +18,4 @@ projects[drupal][version] = 6.26
 projects[d6primer][type] = profile
 projects[d6primer][download][type] = git
 projects[d6primer][download][url] = git://github.com/ncsuwebdev/Drupal-6-Installation-Profile---d6primer.git
-projects[d6primer][download][branch] = 6.x-2.6
+projects[d6primer][download][branch] = 6.x-2.9
