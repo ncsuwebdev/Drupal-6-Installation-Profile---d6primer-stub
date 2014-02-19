@@ -9,7 +9,7 @@ core = 6.x
 ; CORE
 ; ************************
 
-projects[drupal][version] = 6.28
+projects[drupal][version] = 6.30
 
 ; ************************
 ; INSTALL PROFILE
